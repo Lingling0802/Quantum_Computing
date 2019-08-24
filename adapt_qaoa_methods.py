@@ -1,4 +1,3 @@
-# this is test for git verison control functionality
 import scipy
 import openfermion
 import networkx as nx
